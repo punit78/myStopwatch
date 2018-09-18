@@ -48,3 +48,6 @@
              else if(mykey==='r')
              reset();
         }
+         setTimeout(function(){
+            alert("whoo!! you can use keyboard keys s,r,t to start/stop ,reset or record time  ");
+        },2000);
